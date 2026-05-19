@@ -1,2 +1,2 @@
 # myFirstSite
-My first HTML-coded webpage, done by myself.
+My first HTML-coded webpage just as an experiment.
